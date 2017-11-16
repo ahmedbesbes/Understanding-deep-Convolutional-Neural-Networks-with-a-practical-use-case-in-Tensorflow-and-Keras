@@ -21,5 +21,6 @@ conda install -c conda-forge opencv
 4. To obtain GraphViz plots of the CNN architectures: 
 
 Example 
-
-![CNN Architecture](https://ahmedbesbes.com/images/model.png)
+<p align="center">
+<img src="https://ahmedbesbes.com/images/model.png"></img>
+</p>
