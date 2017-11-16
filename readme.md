@@ -11,9 +11,12 @@ It also contains a Keras trained model, so that you can use it yourself and test
 This post a 4-part tutorial. 
 
     1. Present the dataset and the use-case and explain the complexity of the image classification task
-    2. Go over the details about Convolutional Neural Nets. I'll explain their inner meachanisms and the reason why they are more suitable to image classification than ordinary neural netwoks
-    3. Set up a deep learning dedicated environment on a powerful GPU-based EC2 instance from Amazon Web Services (AWS)
-    4. Train two deep learning models: one from scratch in an end-to-end pipeline using Keras and Tensorflow, and another one by using a pre-trained network on a large dataset
+    2. Go over the details about Convolutional Neural Nets. I'll explain their inner meachanisms and 
+    the reason why they are more suitable to image classification than ordinary neural netwoks
+    3. Set up a deep learning dedicated environment on a powerful GPU-based EC2 instance from 
+    Amazon Web Services (AWS)
+    4. Train two deep learning models: one from scratch in an end-to-end pipeline using Keras 
+    and Tensorflow, and another one by using a pre-trained network on a large dataset
 
 ####  Environment setup: 
 
