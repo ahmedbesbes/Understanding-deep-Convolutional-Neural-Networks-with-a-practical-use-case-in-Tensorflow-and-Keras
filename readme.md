@@ -22,5 +22,5 @@ conda install -c conda-forge opencv
 
 Example 
 <p align="center">
-<img src="https://ahmedbesbes.com/images/model.png"></img>
+<img src="https://ahmedbesbes.com/images/model.png" width="50%"></img>
 </p>
