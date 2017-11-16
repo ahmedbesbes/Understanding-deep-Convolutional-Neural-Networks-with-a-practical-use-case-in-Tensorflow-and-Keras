@@ -18,7 +18,13 @@ pip install keras-tqdm
 conda install -c conda-forge opencv 
 ```
 
-4. To obtain GraphViz plots of the CNN architectures: 
+4. [Optional] Dependencies to obtain GraphViz plots of the CNN architectures: 
+
+  1. Install Graphiz: http://www.graphviz.org/Download..php
+  2. Add the Graphiz binaries to you  PATH
+  3. ```bash
+  pip install graphviz  
+  pip install pydot  
 
 Example 
 <p align="center">
