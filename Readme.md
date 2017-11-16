@@ -20,6 +20,8 @@ This post a 4-part tutorial where I:
 
 These 4 parts are independent.
 
+If you're looking to understand the theory behind convnets please refer to the article link posted above.
+
 ###  Environment setup: 
 
 1. Use Python 3.6: No hassle, intall the Conda distribution that encapsulates the PyData stack (SciPy, Pandas, Matplotlib, etc.). Here's the <a href="https://www.anaconda.com/download/#download">installation link<a> 
