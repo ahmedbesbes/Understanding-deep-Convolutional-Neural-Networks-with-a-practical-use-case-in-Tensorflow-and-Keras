@@ -5,7 +5,7 @@ article </a>
 
 ####  Environment setup: 
 
-1. Use Python 3.6: No hassle, intall everything via Cond. Here's the <a href="https://www.anaconda.com/download/#download">installation link<a> 
+1. Use Python 3.6: No hassle, intall the Conda distribution that encapsulates the PyData stack (SciPy, Pandas, Matplotlib, etc.). Here's the <a href="https://www.anaconda.com/download/#download">installation link<a> 
 2. Install the lastest version of Tensorflow: https://www.tensorflow.org/install/install_windows
   I used a windows machine, same applies of Linux and Mac OS X
 
