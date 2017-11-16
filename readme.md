@@ -22,6 +22,7 @@ conda install -c conda-forge opencv
 
     1. Install Graphiz: http://www.graphviz.org/Download..php
     2. Add the Graphiz binaries to you  PATH
+    3. Install Graphiz Python bindings
     ```bash
     pip install graphviz  
     pip install pydot  
