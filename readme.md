@@ -3,6 +3,18 @@
 This jupyter notebook reassembles the code of this <a href="https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html">
 article </a>
 
+It also contains a Keras trained model, so that you can use it yourself and test it. 
+
+
+#### Summary of this article
+
+This post a 4-part tutorial. 
+
+    1. Present the dataset and the use-case and explain the complexity of the image classification task
+    2. Go over the details about Convolutional Neural Nets. I'll explain their inner meachanisms and the reason why they are more suitable to image classification than ordinary neural netwoks
+    3. Set up a deep learning dedicated environment on a powerful GPU-based EC2 instance from Amazon Web Services (AWS)
+    4. Train two deep learning models: one from scratch in an end-to-end pipeline using Keras and Tensorflow, and another one by using a pre-trained network on a large dataset
+
 ####  Environment setup: 
 
 1. Use Python 3.6: No hassle, intall the Conda distribution that encapsulates the PyData stack (SciPy, Pandas, Matplotlib, etc.). Here's the <a href="https://www.anaconda.com/download/#download">installation link<a> 
