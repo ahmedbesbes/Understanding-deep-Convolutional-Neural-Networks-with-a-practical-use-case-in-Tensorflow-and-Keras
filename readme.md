@@ -5,7 +5,7 @@ article </a>
 
 ####  Environment setup: 
 
-1. Use Python 3.6: No hassle, intall everything via Conda. <a hre="https://www.anaconda.com/download/#download">Installation link<a> 
+1. Use Python 3.6: No hassle, intall everything via Cond. Here's the <a hre="https://www.anaconda.com/download/#download">Installation link<a> 
 2. Install the lastest version of Tensorflow: https://www.tensorflow.org/install/install_windows
   I used a windows machine, same applies of Linux and Mac OS X
 
