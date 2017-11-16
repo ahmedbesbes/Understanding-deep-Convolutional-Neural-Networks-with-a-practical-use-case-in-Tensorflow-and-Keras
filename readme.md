@@ -1,9 +1,12 @@
 ## Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras
 
+
+
+
 This jupyter notebook reassembles the code of this <a href="https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html">
 article </a>
 
-It also contains a Keras trained model, so that you can use it yourself and test it. 
+It also contains a trained CNN model, so that you can use it yourself and test it. 
 
 
 ### Summary of this article
