@@ -22,4 +22,4 @@ conda install -c conda-forge opencv
 
 Example 
 
-![CNN Architecture]("https://ahmedbesbes.com/images/model.png")
+![CNN Architecture](https://ahmedbesbes.com/images/model.png)
