@@ -7,7 +7,7 @@ article </a>
 
 1. Use Python 3.6: No hassle, intall the Conda distribution that encapsulates the PyData stack (SciPy, Pandas, Matplotlib, etc.). Here's the <a href="https://www.anaconda.com/download/#download">installation link<a> 
 2. Install the lastest version of Tensorflow: https://www.tensorflow.org/install/install_windows
-  I used a windows machine, same applies of Linux and Mac OS X
+  I used a windows machine, same applies for Linux or Mac OS X
 
 3. Install the following python dependencies:
 
@@ -20,8 +20,8 @@ conda install -c conda-forge opencv
 
 4. [Optional] Dependencies to obtain GraphViz plots of the CNN architectures: 
 
-  1. Install Graphiz: http://www.graphviz.org/Download..php
-  2. Add the Graphiz binaries to you  PATH
+    1. Install Graphiz: http://www.graphviz.org/Download..php
+    2. Add the Graphiz binaries to you  PATH
   ```bash
   pip install graphviz  
   pip install pydot  
