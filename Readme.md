@@ -11,7 +11,7 @@ It also contains a trained CNN model, so that you can use it yourself and test i
 
 ### Summary of this article
 
-This post a 4-part tutorial where I:
+This post is a 4-part tutorial where I:
 
 1. Present an image dataset from the Cat vs. Dog Kaggle competition and explain the complexity of the image classification task
 2. Go over the details about Convolutional Neural Nets, explaining their inner meachanisms and the reason why they perform better than fully connected networks.
